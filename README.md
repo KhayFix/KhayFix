@@ -1,5 +1,5 @@
 ### Hey, this is my page 👋
-My name is Sergei, I am a beginner Backend Developer from Russia:
+My name is Sergei, I am a beginner Backend Developer:
 - 📫 **How to reach me:** smit7bb@mail.ru,  [@Khay_Fix](https://t.me/Khay_Fix) @ Telegram
 <!--
 **KhayFix/KhayFix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
